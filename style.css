@@ -121,7 +121,7 @@ body{
         font-size: 22px;
     }
     .container.choices{
-        text-overflow:none;
+        padding:fit-content;
     }
     .timer{
         width: 50px;
