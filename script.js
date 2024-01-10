@@ -13,7 +13,7 @@ const quiz=[
     {
         question: "Q.Which of the following methods is used to access HTML elements using Javascript? ",
         choices: ["getElementById","ByClassName","Both Above","None of These"],
-        answer: "Both Above"
+        answer: "getElementById"
     },
     {
         question: "Q. Which of the following is not a CSS box model property?",
