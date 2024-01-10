@@ -9,7 +9,7 @@ body{
     height: 100vh;
     display: grid;
     place-items: center;
-    background: url(images/aedrian-299Joc1TQMQ-unsplash.jpg);
+    background: linear-gradient(to right bottom,rgb(39, 16, 16),rgb(88, 79, 136)) ;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
