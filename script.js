@@ -12,7 +12,7 @@ const quiz=[
 
     {
         question: "Q.Which of the following methods is used to access HTML elements using Javascript? ",
-        choices: ["getElementById","getElementByClassName","Both Above","None of These"],
+        choices: ["getElementById","ByClassName","Both Above","None of These"],
         answer: "Both Above"
     },
     {
